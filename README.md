@@ -23,8 +23,7 @@
 无需手动下载，无需繁琐配置。复制下方命令至 VPS 终端（Root/Sudo），**自动完成下载、赋权、执行全流程：**
 
 ```
-```bash
-curl -fsSL [https://raw.githubusercontent.com/MEILOI/OpenClaw_DeepSeek_API/main/deepseek-installer.sh](https://raw.githubusercontent.com/MEILOI/OpenClaw_DeepSeek_API/main/deepseek-installer.sh) -o deepseek-installer.sh && chmod +x deepseek-installer.sh && sudo ./deepseek-installer.sh
+curl -fsSL https://raw.githubusercontent.com/MEILOI/OpenClaw_DeepSeek_API/main/deepseek-installer.sh -o deepseek-installer.sh && chmod +x deepseek-installer.sh && sudo ./deepseek-installer.sh
 
 ```
 
